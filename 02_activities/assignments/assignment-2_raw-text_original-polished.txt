@@ -1,0 +1,101 @@
+Original Version
+
+Good Visualization:
+
+Electricity generation per capita (2022) #VOTD
+https://public.tableau.com/app/profile/rush1056/viz/Electricitygenerationpercapita2022/ElectricityGenerationpercapita2022
+
+This visualization displays the electricity generation capacity for each world country and territory. Each country is grouped by region and furthermore classified by energy source type features.
+
+Reasons for why it is a good visualization:
+
+It manages cognitive load elegantly. There is a lot of information being digested for this visualization. We have electricity generation per capita in the year 2022, Per capita generation energy source type, Average generation per energy source from 1985-2022 and World trends from energy source from 1985-2022, all multiplied by 208 country and territory profiles.
+
+What it does exceptionally, is the use of drop-down menus to switch from the different graphs and diagrams depending on the aspect you want to focus your attention, thus managing the Extraneousness of the subject in a dashboard kind of way.
+
+Although the main Tree chart could be considered “Rare”, the visualization manages this figure’s potential cognitive complexity by allowing you to switch (via drop-down menu) to bar/line graphs per country/territory providing a Familiar data visualization option.
+
+This visualization also handles Working Memory effectively. Energy source types of colors are standardized throughout the visualization for constant reference without the excess of labels. Furthermore, for each year between 1985 and 2022 that you can set a visual reference line per each country’s yearly electricity generation by source type’s chart so you can easily compare where each one stands in any given year within the timeframe.
+
+
+Bad visualization:
+Agricultural in The BRIC Countries | VOTD
+https://public.tableau.com/app/profile/ratnesh2928/viz/AgriculturalinTheBRICNations/Aggriculture
+
+This visualization attempts to display BRIC countries’ agricultural trends, sources and proportions in relation to their populations.
+
+Reasons for why it is a bad visualization:
+
+Starting off with Factual Basis, this visualization does not mention anywhere within the figures the source from where the information was taken from. This makes it hard to accept the information being shown as accurate or true and thus has low provenance rhetoric. Furthermore, certain charts such as the population diagram does not make a true comparison of each country’s population with a whole; one cannot define which whole is the population size of each country comparing itself to.
+
+Focusing on cognitive load, this visualization comes off as very busy and dense where the digestion of the data can be difficult. Too many chunks of textual information, combined with a dense network of data, makes it difficult to read the figure clearly without having to rely too much on memory.
+
+Lastly, the overall style of the visualization does not help readability any further. A strong/stark color palette distracts the viewer from the overall information. Overly forcing certain infographics into charts (such as the tractor wheel being a pie chart or the proportion of agriculture and GDP ad wheat grains) makes it difficult to read the data accurately.
+
+_______________________________________________________________
+Improvements for the “good visualization” analyzed above:
+
+This visualization could be further improved by finding a more concise way of representing the sheer number of mini charts in the “Electricity generation by Country & by source” portion. Since the overall strategy here is of like a dashboard, one concise solution would be three heat maps (for each energy source) with the 208 tiles (for each country/territory) that darkens or lightens depending on the percentage of that energy source. We could also add a toggle bar to navigate throughout the analyzed timeframe of 1985-2022.
+
+Lastly, the Tree diagram could be further improved to be even more engaging to the user by bringing up the trend data directly on each country’s branch. When resting we could see the overall trends (albeit with a different aspect ratio but standardized within every branch) and when a branch is selected, the data presents itself accurate in terms of numbers. This way we can visualize outlying electrical generation trends as well.
+
+Improvements for the “bad visualization” analyzed above:
+
+Beginning with citing sources in any blank corner of the visualization is crucial. If done properly it wouldn’t even be a hinderance towards the artistic intent of the visualization.
+
+Another improvement could be the use of a more subtle color palette; even keeping the same palette but with lower tones/hues could greatly improve readability between texts and avoid color being a distractor from the actual information.
+
+Lastly, the infographic/charts, albeit engaging, cannot come at the cost of data accuracy representation when the intention IS to represent that data accurately. For the population diagram, an easy fix would be to show the whole as the total combined population of BRIC countries and fill out each country’s part. For the % of land dedicated to agriculture, an easier fix would be to use tractor symbols to account for a percentual comparison between countries. Lastly, for the agriculture as % of GDP, an easier fix would be to make each grain to represent whole percentages (i.e. one grain = 5%) and scale down the number of “grains” needed to make a whole wheat stem (or 100%). This way one can truly appreciate the differences between each country’s GDP percentage.
+
+
+
+
+
+Polished w/AI version
+
+Good Visualization:
+
+Electricity generation per capita (2022) #VOTD
+https://public.tableau.com/app/profile/rush1056/viz/Electricitygenerationpercapita2022/ElectricityGenerationpercapita2022
+
+This visualization displays the electricity generation capacity for each world country and territory. Each country is grouped by region and further classified by energy source type features.
+
+Reasons for why it is a good visualization:
+
+It manages cognitive load elegantly. There is a significant amount of information being processed in this visualization: electricity generation per capita in 2022, per capita generation by energy source type, average generation per energy source from 1985 to 2022, and world trends in energy sources from 1985 to 2022, all multiplied by 208 country and territory profiles.
+
+What it does exceptionally well is using drop-down menus to switch between different graphs and diagrams depending on which aspect you want to focus on, effectively managing the complexity of the subject in a dashboard-style format.
+Although the main tree chart could be considered “rare,” the visualization manages this figure’s potential cognitive complexity by allowing users to switch (via the drop-down menu) to bar or line graphs per country or territory, providing a more familiar data visualization option.
+
+This visualization also handles working memory effectively. Energy source types are color-coded consistently throughout for constant reference without excessive labeling. Furthermore, for each year between 1985 and 2022, users can set a visual reference line in each country’s yearly electricity generation by source type chart, allowing easy comparison of where each one stands in any given year within the timeframe.
+
+
+Bad visualization:
+Agricultural in The BRIC Countries | VOTD
+https://public.tableau.com/app/profile/ratnesh2928/viz/AgriculturalinTheBRICNations/Aggriculture
+
+This visualization attempts to display the BRIC countries’ agricultural trends, sources, and proportions in relation to their populations.
+
+Reasons for why it is a bad visualization:
+
+Starting with factual basis, this visualization fails to mention the source of its data anywhere within the figures. This omission makes it difficult to trust the information presented as accurate or true, thus lowering its rhetorical credibility. Furthermore, certain charts, such as the population diagram, do not make a true comparison of each country’s population as a whole; one cannot discern what the total population baseline is or how each country’s population relates to it.
+
+In terms of cognitive load, this visualization appears busy and dense, making the data difficult to process. Too many chunks of textual information combined with a cluttered network of data hinder readability and force the viewer to rely too heavily on memory.
+
+Lastly, the overall style of the visualization does not aid readability. A strong and stark color palette distracts the viewer from the information. Overly stylized infographics (such as the tractor wheel as a pie chart or the wheat grains representing agricultural GDP proportions) compromise data accuracy and clarity.
+
+________________________________________________________
+
+Improvements for the “good visualization” analyzed above:
+
+This visualization could be further improved by finding a more concise way to represent the large number of mini charts in the “Electricity Generation by Country & Source” section. Since the overall approach is similar to a dashboard, one concise solution could be three heat maps (one for each energy source) with 208 tiles (one per country or territory) that darken or lighten based on the percentage of that energy source. A toggle bar could also be added to navigate through the 1985 to 2022 timeframe.
+Additionally, the tree diagram could be made more engaging by integrating trend data directly into each country’s branch. When inactive, users could see overall trends (with a standardized aspect ratio across branches), and when a branch is selected, detailed numerical data could appear. This approach would allow users to easily identify outlying electricity generation trends.
+
+Improvements for the “bad visualization” analyzed above:
+
+First and foremost, citing data sources in any visible portion of the visualization is crucial. If done properly, it would not interfere with the artistic intent of the piece.
+
+Another improvement would be to use a more subtle color palette. Even keeping the same palette but lowering the tones or hues would greatly enhance readability and prevent color from becoming a distraction.
+
+Finally, while the infographic style is visually engaging, it should not come at the expense of data accuracy. For the population diagram, an easy fix would be to show the total combined population of BRIC countries as the whole and represent each country’s share proportionally. For the percentage of land dedicated to agriculture, using tractor symbols to visually compare proportions between countries would work well. For agriculture as a percentage of GDP, each grain could represent a fixed value (for example, one grain equals 5%), and a full wheat stem could equal 100%. This approach would make the GDP differences between countries clearer and more accurate.
+
